@@ -1,6 +1,9 @@
 # burger
-A restaurant app that lets users input the names of burgers they'd like to eat.  This uses MySQL to store the burger information and javascript.
+A restaurant app that lets users input the names of burgers they'd like to eat.  This uses MySQL to store the burger information and javascript.   
 
+Screen shot:  https://drive.google.com/file/d/1OlUIhyU9ajPQTb88D-gU0k0scHh8rsuB/view?usp=sharing
+
+Run using:  node server.js
 
 https://frozen-escarpment-16189.herokuapp.com/burgers
 
